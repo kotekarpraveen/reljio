@@ -65,7 +65,7 @@ Database and table
    Database name - album
    Tables - album and photo
 
-  ![Optional Text](./db/album_ER-diagram.PNG)
+ ![Alt text](db/album_ER-diagram.PNG?raw=true "Title")
 
 
 API
