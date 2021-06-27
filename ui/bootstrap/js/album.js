@@ -88,7 +88,7 @@
 	        var _this = this;
 			_this.datadisablePhotoPaginationLink();
 			console.log(data.length);
-			if(data.length>20)
+			if(data.length>1)
 			{
 				$(".photonext").removeAttr("disabled","disabled");
 			}
@@ -177,7 +177,7 @@
 			var _this = this;
 			
 			_this.datadisableAlbumPaginationLink();
-			if(data.length>20)
+			if(data.length>1)
 			{
 				$(".albumnext").removeAttr("disabled","disabled");
 			}
